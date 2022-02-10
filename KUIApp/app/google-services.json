@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305397779472",
+    "project_id": "kui-app-2c158",
+    "storage_bucket": "kui-app-2c158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305397779472:android:ff9c4d9fe2e93a2369ce95",
+        "android_client_info": {
+          "package_name": "com.edwinabrenda.kui_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305397779472-m32ginobb068snkou1bt020fqvq2efgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR7VnqkuROzYtWI3aanHzKHyPftZdFLZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305397779472-m32ginobb068snkou1bt020fqvq2efgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

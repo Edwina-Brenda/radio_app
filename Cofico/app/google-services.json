@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148974970617",
+    "project_id": "cofico-b1c87",
+    "storage_bucket": "cofico-b1c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148974970617:android:363da0e295b9bfccc06428",
+        "android_client_info": {
+          "package_name": "com.edwinabrenda.cofico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148974970617-fuogmigmpl7u4mmlkb7us9vt3kcft2ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFuE1Qy2J7Qoe0NM3RsXHLzUGcsYEl-Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148974970617-fuogmigmpl7u4mmlkb7us9vt3kcft2ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

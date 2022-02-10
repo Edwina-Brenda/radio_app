@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+       android:layout_height="match_parent"
+    android:background="@color/purple"
+    android:id="@+id/numberLayout"
+    tools:context=".Number">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+        android:orientation="horizontal"
+       >
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="100dp"
+            android:src="@drawable/father">
+
+        </ImageView>
+<LinearLayout
+    android:layout_width="335dp"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="335dp"
+            android:layout_height="100dp"
+            android:text="Father"
+
+            android:textSize="24dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Baba"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+</LinearLayout>
+
+
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:src="@drawable/mother">
+
+            </ImageView>
+            <LinearLayout
+                android:layout_width="335dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="335dp"
+                    android:layout_height="100dp"
+                    android:text="Mother"
+                    android:textSize="24dp"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Baba"
+                    android:textSize="20dp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:src="@drawable/sibling">
+
+            </ImageView>
+            <LinearLayout
+                android:layout_width="335dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="335dp"
+                    android:layout_height="100dp"
+                    android:text="Sibling"
+                    android:textSize="24dp"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Baba"
+                    android:textSize="20dp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:src="@drawable/brother">
+
+            </ImageView>
+            <LinearLayout
+                android:layout_width="335dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="335dp"
+                    android:layout_height="100dp"
+                    android:text="Brother"
+                    android:textSize="24dp"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Baba"
+                    android:textSize="20dp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:src="@drawable/grandfather">
+
+            </ImageView>
+            <LinearLayout
+                android:layout_width="335dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="335dp"
+                    android:layout_height="100dp"
+                    android:text="GrandMother"
+                    android:textSize="24dp"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Baba"
+                    android:textSize="20dp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
